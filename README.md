@@ -7,11 +7,11 @@ Bienvenue sur mon portfolio de Data Analyst ! Ce dépôt met en avant mes compé
 ## 📑 Sommaire
 - [🧑‍💻 À propos de moi](#-À-propos-de-moi)
 - [📂 Projets](#-projets)
-  - [1. 📈 Analyse des Données COVID-19](#-analyse-des-données-covid-19-réalisé-en-2024)
+  - [📈 Analyse des Données COVID-19](#-analyse-des-données-covid-19-réalisé-en-2024)
     - [🔍 Exploration des Données](#-exploration-des-données)
     - [📊 Dashboard interactif COVID-19](#-dashboard-interactif-covid-19)
     - [🖼️ Captures d'écran du Dashboard](#-captures-décran-du-dashboard)
-  - [2. 🩹 Analyse et Prédiction des Coûts d'Assurance Santé](#-analyse-et-prédiction-des-coûts-dassurance-santé)
+  - [🩹 Analyse et Prédiction des Coûts d'Assurance Santé](#-analyse-et-prédiction-des-coûts-dassurance-santé)
 - [📫 Contactez-moi](#-contactez-moi)
 
 ---
@@ -24,7 +24,7 @@ Je m'appelle Issa Diakite, et l’analyse de données est pour moi bien plus qu�
 
 ## 📂 Projets
 
-### 1. 📈 Analyse des Données COVID-19 (réalisé en 2024)
+### 📈 Analyse des Données COVID-19 (réalisé en 2024)
 
 Ce projet explore les données mondiales du COVID-19 de janvier 2020 à avril 2021, comprenant des informations sur le nombre de cas, de décès, de vaccinations, et plus encore, ventilées par jour et par pays.
 
@@ -65,7 +65,7 @@ Pour illustrer le dashboard Power BI, voici des captures d’écran montrant ses
 
 ---
 
-### 1. 🩹 Analyse et Prédiction des Coûts d'Assurance Santé
+### 🩹 Analyse et Prédiction des Coûts d'Assurance Santé
 
 Ce projet explore les données d'assurance santé en vue de comprendre les facteurs influençant les coûts des polices d'assurance et de développer un modèle de prédiction des coûts futurs.
 
