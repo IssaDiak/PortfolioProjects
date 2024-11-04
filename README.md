@@ -4,6 +4,18 @@ Bienvenue sur mon portfolio de Data Analyst ! Ce dépôt met en avant mes compé
 
 ---
 
+## 📑 Sommaire
+- [🧑‍💻 À propos de moi](#-À-propos-de-moi)
+- [📂 Projets](#-projets)
+  - [📈 Analyse des Données COVID-19](#-analyse-des-données-covid-19-réalisé-en-2024)
+    - [🔍 Exploration des Données](#-exploration-des-données)
+    - [📊 Dashboard interactif COVID-19](#-dashboard-interactif-covid-19)
+    - [🖼️ Captures d'écran du Dashboard](#-captures-décran-du-dashboard)
+  - [💼 Analyse et Prédiction des Coûts d'Assurance Santé](#-analyse-et-prédiction-des-coûts-dassurance-santé)
+- [📫 Contactez-moi](#-contactez-moi)
+
+---
+
 ## 🧑‍💻 À propos de moi
 
 Je m'appelle Issa Diakite, et l’analyse de données est pour moi bien plus qu’une discipline : c’est une enquête continue. Mon objectif est de découvrir les nuances cachées dans les données et d’extraire les éléments essentiels pour guider des décisions stratégiques. Mon expertise couvre la manipulation de données, la modélisation statistique, et la visualisation, le tout orienté vers l’action !
@@ -50,6 +62,24 @@ Pour illustrer le dashboard Power BI, voici des captures d’écran montrant ses
 
 3. **Page d'exportation** - Option pour l’export des données.
    👉 [Voir la capture d'écran](https://github.com/IssaDiak/PortfolioProjects/blob/main/Covid_dashboard_screen3.png)
+
+---
+
+### 💼 Analyse et Prédiction des Coûts d'Assurance Santé
+
+Ce projet explore les données d'assurance santé en vue de comprendre les facteurs influençant les coûts des polices d'assurance et de développer un modèle de prédiction des coûts futurs.
+
+- **Objectif** : Identifier les caractéristiques influençant les coûts des polices d'assurance santé et prédire les charges pour de futurs clients.
+- **Étapes clés** :
+  - **Exploration des Données** : Analyse initiale pour identifier les tendances et les facteurs corrélés avec les coûts.
+  - **Préparation des Données** : Nettoyage, transformation et encodage des variables pour les modèles de machine learning.
+  - **Modélisation Prédictive** : Utilisation de modèles de régression (ex. : régression linéaire, arbres de décision) pour prédire les coûts d'assurance.
+  - **Évaluation** : Analyse des performances des modèles pour évaluer leur précision.
+- **Outils** : Python (pandas, matplotlib, scikit-learn)
+
+👉 [Accéder au Notebook](https://github.com/IssaDiak/PortfolioProjects/blob/main/Medical_Insurance_Cost_Analysis_and_Prediction.ipynb)
+
+👉 [Accéder aux données CSV](https://github.com/IssaDiak/PortfolioProjects/blob/main/Medical_Insurance.csv)
 
 ---
 
