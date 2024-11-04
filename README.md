@@ -7,11 +7,11 @@ Bienvenue sur mon portfolio de Data Analyst ! Ce dépôt met en avant mes compé
 ## 📑 Sommaire
 - [🧑‍💻 À propos de moi](#-À-propos-de-moi)
 - [📂 Projets](#-projets)
-  - [1. 📈 Analyse des Données COVID-19](#-analyse-des-données-covid-19-réalisé-en-2024)
+  - [1. 📈 Analyse des Données COVID-19](#-1.-analyse-des-données-covid-19-réalisé-en-2024)
     - [🔍 Exploration des Données](#-exploration-des-données)
     - [📊 Dashboard interactif COVID-19](#-dashboard-interactif-covid-19)
     - [🖼️ Captures d'écran du Dashboard](#-captures-décran-du-dashboard)
-  - [2. 🩹 Analyse et Prédiction des Coûts d'Assurance Santé](#-analyse-et-prédiction-des-coûts-dassurance-santé)
+  - [2. 🩹 Analyse et Prédiction des Coûts d'Assurance Santé](#-2.-analyse-et-prédiction-des-coûts-dassurance-santé)
 - [📫 Contactez-moi](#-contactez-moi)
 
 ---
